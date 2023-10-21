@@ -10,8 +10,6 @@
 
 ## Como Usar
 
-![Imagem 2 - Sobre o Projeto](assets/print2.jpg)
-
 1. Certifique-se de que você tenha as bibliotecas OpenCV e MediaPipe instaladas. Você pode instalá-las usando o `pip`:
 
    ```bash
@@ -27,6 +25,8 @@
 4. O número de dedos abertos é exibido em um display digital no canto superior esquerdo do vídeo.
 
 ## Como Funciona
+
+![Imagem 2 - Sobre o Projeto](assets/printScreen.png)
 
 ✅ Ele inicia a câmera e começa a capturar frames de vídeo.
 
